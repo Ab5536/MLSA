@@ -32,7 +32,7 @@ const siteProps = {
   linkedIn: "Abdullah Zahid",
   medium: "",
   twitter: "Abdullah_AN_87",
-  youTube: "",
+  youTube: "coding",
 };
 
 const primaryColor = "#4E567E";
